@@ -1,0 +1,10 @@
+- get rid of replit db
+- break the functions into multiple files
+- config file for static stuff on discord
+
+
+- save a map colors as map0 and change only changes
+- convoy path algotythm
+- change the db, coasts
+- arrows for attacking each other
+- break functions into classes (solving, checking, order, games_dict)
